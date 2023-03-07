@@ -1,0 +1,83 @@
+.tanitim p {
+  margin: 30px;
+  height: 30px;
+  width: 400px;
+}
+
+.tanitim {
+  text-align: center;
+  width: 10px;
+  margin: 10px;
+  display: flex;
+}
+
+.tanitim h1 {
+  font-family: "Chelsea Market", cursive;
+  margin: 20px;
+}
+
+* {
+  font-family: "Roboto Mono", cursive;
+  box-sizing: border-box;
+}
+
+.icerik {
+  background-color: #ddb9a3;
+  color: white;
+  text-align: center;
+}
+.mid {
+  text-align: center;
+  margin: 10px;
+  padding: 100px;
+}
+.tanitim img {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  margin: 60px;
+  margin-left: 80px;
+}
+.container {
+  text-align: center;
+}
+.container header nav a {
+  margin: 0 220px;
+  background: #ff764e;
+  padding: 20px;
+  border: 10px;
+  display: inline-block;
+  color: white;
+  border-radius: 20px;
+}
+.tanitim div {
+  margin: 250px;
+  margin-top: 90px;
+}
+.icerik {
+  margin: auto;
+  font-size: 20px;
+}
+.mid img {
+  height: 100px;
+  width: 100px;
+}
+.foot a {
+  margin: 80px;
+  background: #ff764e;
+  padding: 20px;
+  border: 10px;
+  display: inline-block;
+  color: white;
+  border-radius: 20px;
+}
+.foot img {
+  width: 100%;
+  height: 200px;
+  margin: 0 0 50px 0;
+  object-fit: cover;
+  object-position: top;
+}
+.foot {
+  background: #f9e7dc;
+}
